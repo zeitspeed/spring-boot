@@ -21,6 +21,7 @@ public class EmpMapperTest {
         System.out.println(EmpFind);
         System.out.println(EmpFind);
         System.out.println(EmpFind);
+        System.out.println(EmpFind);
     }
 
     @Test
